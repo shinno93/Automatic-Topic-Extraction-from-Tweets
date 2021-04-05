@@ -1,5 +1,5 @@
-# IT-Research-in-Practice
-This is a data science research project at QUT.<br>
+# Automatic Topic Extraction from Tweets
+This is a data science research project at QUT. (Subject: IFN712 IT Rresearch in Practice)<br>
 
 <b>Project Background</b> <br>
 <br>
@@ -9,7 +9,7 @@ In most of the existing researches, hash tags and key words-based categorisation
 <br>
 <b>Project Objectives</b> <br>
 <br>
-This project aims to retrieve the related tweets based on the users’ topic interest based on text mining techniques.<br>
+This project aims to retrieve the related tweets for users based on their topic interest using text mining techniques.<br>
 Students are required to present an effective algorithm to categorise and retrieve the relevant tweets related to the topics of user’s interest 
 based on his/her tweets. <br>
 <br>
